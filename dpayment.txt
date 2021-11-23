@@ -1,0 +1,4 @@
+Receipt No 	 Booking ID 	 Flat/Duplex No
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Rec_0003		BOOK_0003		500
+Rec_0003		BOOK_0003		1000

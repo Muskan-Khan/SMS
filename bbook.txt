@@ -1,0 +1,3 @@
+Booking ID 	 Customer ID 	 Flat/Duplex No
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+BOOK_0001	 	OWN_0001	 	F_0001
